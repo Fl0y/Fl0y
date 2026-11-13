@@ -1,6 +1,7 @@
 ## Hi there 👋
-<img width="505" height="334" alt="bladerunner" src="https://github.com/user-attachments/assets/320aa6cb-434d-4ea5-b286-e05de89e5417" />
-
+<p align="center">
+  <img width="505" height="334" alt="bladerunner" src="https://github.com/user-attachments/assets/320aa6cb-434d-4ea5-b286-e05de89e5417" />
+</p>
 <!--
 **Fl0y/Fl0y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
